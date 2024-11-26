@@ -1,0 +1,12 @@
+
+0
+java:S1220""Move this file to a named package.
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(’½¥½8 ή‰¥³2
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(›¶£ιόÿÿÿÿ8΅ή‰¥³2
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(£Ί•8΅ή‰¥³2
+I
+java:S1874&",Remove this use of "Date"; it is deprecated.(¶λ„8΄¥³2
+N
+java:S1874'",Remove this use of "Date"; it is deprecated.(Ό§ΟΏόÿÿÿÿ8µ¥³2
+I
+java:S1874(",Remove this use of "Date"; it is deprecated.(–Ώ8¶¥³2
